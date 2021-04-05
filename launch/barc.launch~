@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+
+        <node pkg="barc" type="main.py" name="main" output="screen"></node>
+	<node pkg="barc" type="serial_node.py" name="serial_node" output="screen"></node>
+
+</launch>
+

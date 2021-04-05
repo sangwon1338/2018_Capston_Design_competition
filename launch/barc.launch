@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+        <node pkg="barc" type="main.py" name="main" output="screen"></node>
+</launch>
+
